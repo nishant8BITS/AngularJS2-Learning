@@ -1,4 +1,4 @@
-AngularJS-Learning
+Angular 2-Learning
 ==================
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. 
