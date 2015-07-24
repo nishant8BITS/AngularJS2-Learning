@@ -10,12 +10,12 @@ I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunni
 The version of this repo for Angular 1.x is still maintained [here] (https://github.com/jmcunningham/AngularJS-Learning)
 
 ### Table of Contents
-[Books](#books)
-[Videos](#videos)
-[Courses](#courses)
-[Help](#help)
-[General Topics](#general-topics)
-[Introductions/Beginning AngularJS2](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
+[Books](#books)  
+[Videos](#videos)  
+[Courses](#courses)   
+[Help](#help)  
+[General Topics](#general-topics) 
+[Introductions/Beginning AngularJS2](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
 [Best Practices/Style Guides](#best-practicesstyle-guides)
 [Lessons Learned](#lessons-learned)
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)
