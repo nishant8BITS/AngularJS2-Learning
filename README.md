@@ -23,7 +23,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 [Sample Apps](#sample-apps)
 [Scopes & Compile](#scopes--compile)
 [Dependency Injection](#dependency-injection)
-[Directives](#directives)
+[Components/Directives](#components)
 [Services/Providers](#servicesproviders)
 [Routing](#routing)
 [Promises/Deferred](#promisesdeferred)
@@ -45,7 +45,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
-| Some Book Placeholder                                                                                           | Some Author               | A publisher             | v2.0  |   pub date  |
+| ng-book 2                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
 
 
 ## Videos
@@ -61,16 +61,24 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [reddit] (http://www.reddit.com/r/angularjs)
 
 ## General Topics
+-[Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
+-[The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
+-[Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
+-[A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)
+-[Writing Angular 2 in TypeScript] (http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
+-[Getting Started With Angular 2.0] (http://thejackalofjavascript.com/getting-started-with-angular-2-0/)
 
 ## Tutorial Series
+-[Creating a Super Simple Todo App Using Angular 2] (http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)
 
 ## Best Practices/Style Guides
 
 ## Lessons Learned
 
 ## Boilerplates/Seed Projects
+-[Official Quick Start by the Angular team] (https://github.com/angular/quickstart)
 
 ## Multipart Articles
 
@@ -81,7 +89,9 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## Dependency Injection
 
-## Directives
+## Components
+-[Angular 2 Template Syntax] (http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
+-[Creating Container Components, Part 3: Angular 2 Component Directives] (https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives)
 
 ## Services/Providers
 
@@ -90,6 +100,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Promises/Deferred
 
 ## Forms
+-[The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
 ## Authentication
 
