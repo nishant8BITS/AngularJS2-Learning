@@ -45,7 +45,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
-| ng-book 2                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
+| [ng-book 2](https://www.ng-book.com/2/)                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
 
 
 ## Videos
